@@ -58,3 +58,9 @@ body{
     font-size: 1.4rem;
     color: #61dafb;
 }
+
+.react-info-section{
+    width: 40rem;
+    height: 60rem;
+    margin: auto;
+}
